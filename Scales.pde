@@ -15,9 +15,9 @@ void draw() {
         float b = 217;
         fill(r, g, b);
         scale(x2,y2);
-         r = (float)Math.random()*125+ 51;
-         g = (float)Math.random()*104+ 51;
-         b = 217;
+         r = (float)Math.random()*125+ 41;
+         g = (float)Math.random()*104+ 41;
+         b = 158;
         fill(r, g, b);
         shadow(x2,y2);
         
@@ -27,9 +27,9 @@ void draw() {
         float b = 217;
         fill(r, g, b);
         scale(x2+15,y2);
-         r = (float)Math.random()*125+ 51;
-         g = (float)Math.random()*104+ 51;
-         b = 217;
+         r = (float)Math.random()*125+ 41;
+         g = (float)Math.random()*104+ 41;
+         b = 158;
         fill(r, g, b);
         shadow(x2+15,y2);
       }
